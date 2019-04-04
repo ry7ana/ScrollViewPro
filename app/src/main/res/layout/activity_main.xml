@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.esraa.hp.scrollviewpro.MainActivity">
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:orientation="vertical">
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/download"
+        android:layout_marginTop="10dp"
+        android:scaleType="centerCrop"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Hawaii"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:layout_marginTop="10dp"
+        />
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sodales ac ipsum ac ornare. Nunc vitae tellus eget odio hendrerit efficitur quis ut quam. Sed porta lectus magna, eu vestibulum dolor sagittis ac. Sed varius venenatis tortor in laoreet. Cras quis varius nisl, quis condimentum quam. Duis justo nulla, scelerisque in arcu vel, malesuada lobortis sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur porttitor interdum felis tristique porta. Curabitur tempus mattis dui sit amet egestas. Sed interdum ornare fermentum. Etiam est elit, finibus auctor ornare non, varius in risus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sodales ac ipsum ac ornare. Nunc vitae tellus eget odio hendrerit efficitur quis ut quam. Sed porta lectus magna, eu vestibulum dolor sagittis ac. Sed varius venenatis tortor in laoreet. Cras quis varius nisl, quis condimentum quam. Duis justo nulla, scelerisque in arcu vel, malesuada lobortis sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur porttitor interdum felis tristique porta. Curabitur tempus mattis dui sit amet egestas. Sed interdum ornare fermentum. Etiam est elit, finibus auctor ornare non, varius in risus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sodales ac ipsum ac ornare. Nunc vitae tellus eget odio hendrerit efficitur quis ut quam. Sed porta lectus magna, eu vestibulum dolor sagittis ac. Sed varius venenatis tortor in laoreet. Cras quis varius nisl, quis condimentum quam. Duis justo nulla, scelerisque in arcu vel, malesuada lobortis sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur porttitor interdum felis tristique porta. Curabitur tempus mattis dui sit amet egestas. Sed interdum ornare fermentum. Etiam est elit, finibus auctor ornare non, varius in risus."/>
+     </LinearLayout>
+</ScrollView>
